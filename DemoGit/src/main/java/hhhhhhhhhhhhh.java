@@ -4,8 +4,7 @@ public class hhhhhhhhhhhhh {
         if(a%2==0){
             System.out.println("so chan");
         }
-        else{
-            System.out.println(" so le");}
+        else System.out.println(" so le");
     }
 
 }
